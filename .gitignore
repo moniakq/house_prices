@@ -1,2 +1,8 @@
 .ipynb_checkpoints/
 sample_submission.csv
+MLP1/
+MLP4/
+.gitignore
+MLP2/
+Untitled.ipynb
+mlp_keras_tuner/
